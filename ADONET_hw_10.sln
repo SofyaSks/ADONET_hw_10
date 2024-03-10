@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vector", "ADONET_hw_10\Vector.csproj", "{767FD489-6E85-4374-9C09-E745A001EE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestVector3D", "TestVector3D\TestVector3D.csproj", "{677E5F5E-FBFD-4CBB-8F9F-1D26CA15698A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{767FD489-6E85-4374-9C09-E745A001EE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767FD489-6E85-4374-9C09-E745A001EE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767FD489-6E85-4374-9C09-E745A001EE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767FD489-6E85-4374-9C09-E745A001EE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677E5F5E-FBFD-4CBB-8F9F-1D26CA15698A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677E5F5E-FBFD-4CBB-8F9F-1D26CA15698A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677E5F5E-FBFD-4CBB-8F9F-1D26CA15698A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677E5F5E-FBFD-4CBB-8F9F-1D26CA15698A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {744FF98B-AD40-40C3-89CE-AF879E1FA3A4}
+	EndGlobalSection
+EndGlobal
